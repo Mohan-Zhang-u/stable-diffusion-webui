@@ -24,9 +24,9 @@ lark
 inflection
 GitPython
 psutil
-# torchsde
-# safetensors
-# torchdiffeq
-# transformers==4.25.1
-# torch
-# pytorch_lightning==1.7.7
+torchsde
+safetensors
+torchdiffeq
+transformers==4.25.1
+torch
+pytorch_lightning==1.7.7
