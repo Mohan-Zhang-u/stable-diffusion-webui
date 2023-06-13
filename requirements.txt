@@ -1,11 +1,9 @@
+astunparse
 blendmodes
 accelerate
 basicsr
-fonts
-font-roboto
 gfpgan
-gradio==3.16.2
-invisible-watermark
+gradio==3.31.0
 numpy
 omegaconf
 opencv-contrib-python
@@ -26,7 +24,13 @@ GitPython
 psutil
 torchsde
 safetensors
+
 torchdiffeq
 transformers==4.25.1
 torch
 pytorch_lightning==1.7.7
+
+# from remote
+psutil
+rich
+tomesd
